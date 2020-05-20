@@ -1,10 +1,11 @@
-﻿using System;
+﻿using IOC.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace IOC.ManufacturerKeys
 {
-    class BMWKey
+    public class BMWKey : ICarKey
     {
     }
 }

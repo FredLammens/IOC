@@ -4,7 +4,7 @@ using System.Text;
 
 namespace IOC.Interfaces
 {
-    class ICarKey
+    public interface ICarKey
     {
     }
 }

@@ -4,7 +4,8 @@ using System.Text;
 
 namespace IOC.Interfaces
 {
-    class ICar
+    public interface ICar
     {
+        int Run();
     }
 }
