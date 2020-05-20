@@ -1,0 +1,4 @@
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\3.Ontwerppatronen\Oef\IOC\IOC\bin\Debug\netcoreapp3.1\IOC.exe
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\3.Ontwerppatronen\Oef\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.csprojAssemblyReference.cache
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\3.Ontwerppatronen\Oef\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.AssemblyInfoInputs.cache
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\3.Ontwerppatronen\Oef\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4NmuRi1vkLVUI8dQNlYMXQ/lb5RWIiRFnTSNpP6fi60JHRQMM+J3zPLC59utEDi/rZgyC1zO9+4fB8kLUS68sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Biebem\\Google Drive\\School\\hbO5\\Semester2\\hbo5_Programmeren4\\3.Ontwerppatronen\\Oef\\IOC\\IOC\\IOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Biebem\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Biebem\\.nuget\\packages\\unity\\5.11.6\\unity.5.11.6.nupkg.sha512"
+  ],
+  "logs": []
+}
